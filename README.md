@@ -20,8 +20,9 @@
   [<img  src="linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
   &nbsp;
   [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
-  
+  &nbsp;
+  [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
 
 [tableau]:  https://public.tableau.com/app/profile/lars.marius.jappee#!/
 [linkedin]:   https://www.linkedin.com/in/jappee    
-    
+[gmail]:    mailto:john@example.com
