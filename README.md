@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning business analytics at HULT
 - 📫 How to reach me strojap@gmail.com
 
-# Lars Marius Strømberg
+# Lars Marius Strømberg Jappée
 <p> Business Analytics Student.
     
     
@@ -23,5 +23,5 @@
   
 
 [tableau]:  https://public.tableau.com/app/profile/lars.marius.jappee#!/
-[linkedin]:   www.linkedin.com/in/jappee    
+[linkedin]:   https://www.linkedin.com/in/jappee    
     
