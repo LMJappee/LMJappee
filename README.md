@@ -1,5 +1,5 @@
 # Lars Marius Strømberg Jappée
-<p> Business Analytics Student.
+<p> Norwegian living in the US. Just completed my Master of Business Administration (MBA), and I am currently a Master of Science in Business Analytics Student.
     
     
 | Education     | University                  | Year completed                 |  Location                     |
