@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @LMJappee
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning business analytics at HULT
-- 📫 How to reach me strojap@gmail.com
-
 # Lars Marius Strømberg Jappée
 <p> Business Analytics Student.
     
@@ -21,8 +16,8 @@
   &nbsp;
   [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
   &nbsp;
-  [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
+  [<img  src="gmail.png" width="48" height="48"   style="background-color:white;">][tableau]
 
 [tableau]:  https://public.tableau.com/app/profile/lars.marius.jappee#!/
 [linkedin]:   https://www.linkedin.com/in/jappee    
-[gmail]:    mailto:john@example.com
+[gmail]:    mailto:strojap@gmail.com
