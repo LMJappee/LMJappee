@@ -15,3 +15,13 @@
 
 <br>
 
+
+# Other Profiles
+  [<img  src="linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  &nbsp;
+  [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
+  
+
+[tableau]:  https://public.tableau.com/app/profile/lars.marius.jappee#!/
+[linkedin]:   www.linkedin.com/in/jappee    
+    
