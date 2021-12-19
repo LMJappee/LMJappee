@@ -7,10 +7,9 @@
 <p> Business Analytics Student.
     
     
-| Education     | University                  | Degree                  |  Location                     |
+| Education     | University                  | Year completed                 |  Location                     |
 | ------------- |-----------------------------| ----------------------------| ------------------------------|
-| 2015          | Norwegian Business School BI| Bachelors in Entrepreneurship and Economics |    Jesi (AN), Italy           |
-| 2019          | Business Administration     | Bocconi University          |    Milan (MI), Italy          |
+| Bachelors in Entrepreneurship and Economics | Norwegian Business School BI| 2015|    Oslo, Norway           |
 | 2021          | Business Analytics          |   Hult University           |    Boston (MA), United States |
 | Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
 
