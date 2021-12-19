@@ -10,7 +10,6 @@
 
 <br>
 
-
 # Other Profiles
   [<img  src="linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
   &nbsp;
