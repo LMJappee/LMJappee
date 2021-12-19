@@ -16,7 +16,7 @@
   &nbsp;
   [<img  src="Tableau.png" width="48" height="48"   style="background-color:white;">][tableau]
   &nbsp;
-  [<img  src="gmail.png" width="48" height="48"   style="background-color:white;">][tableau]
+  [<img  src="gmail.png" width="48" height="48"   style="background-color:white;">][gmail]
 
 [tableau]:  https://public.tableau.com/app/profile/lars.marius.jappee#!/
 [linkedin]:   https://www.linkedin.com/in/jappee    
