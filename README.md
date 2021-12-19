@@ -5,8 +5,8 @@
 | Education     | University                  | Year completed                 |  Location                     |
 | ------------- |-----------------------------| ----------------------------| ------------------------------|
 | Bachelors in Entrepreneurship and Economics | Norwegian Business School BI| 2015|    Oslo, Norway           |
-| Masters of Business Administration | Hult International Business School | 2021 |    Cambride (MA), United States |
-| Masters of Science in Business Analytics | Hult International Business School | Expected 2022 |    Cambride (MA), United States   |
+| Masters of Business Administration | Hult International Business School | 2021 |    Cambridge (MA), United States |
+| Masters of Science in Business Analytics | Hult International Business School | Expected 2022 |    Cambridge (MA), United States   |
 
 <br>
 
